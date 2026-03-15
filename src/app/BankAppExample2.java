@@ -11,9 +11,9 @@ public class BankAppExample2 {
         double amount1 = 1500;
         double amount2 = 1200;
 
-        BankAccountExample2.sss(mohamed,ahmed,amount1,1);
+        BankAccountExample2.transferMoney(mohamed,ahmed,amount1,1);
         System.out.println();
-        BankAccountExample2.sss(mohamed,ahmed,amount2,2);
+        BankAccountExample2.transferMoney(mohamed,ahmed,amount2,2);
 
     }
 }
