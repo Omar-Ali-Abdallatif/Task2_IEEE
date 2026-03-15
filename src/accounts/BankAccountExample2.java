@@ -39,7 +39,7 @@ public class BankAccountExample2 {
         return warningMessage;
     }
 
-    public static void sss(BankAccountExample2 firstAccount, BankAccountExample2 secondAccount, double amountt, int transferNumber){
+    public static void transferMoney(BankAccountExample2 firstAccount, BankAccountExample2 secondAccount, double amountt, int transferNumber){
         if (firstAccount.getBalance() >= amountt){
             firstAccount.setBalance(firstAccount.getBalance()-amountt);
             secondAccount.setBalance(secondAccount.getBalance()+amountt);
