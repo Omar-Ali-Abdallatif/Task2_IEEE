@@ -113,7 +113,5 @@ Encapsulation ensures customer state is updated only through controlled methods.
 
  ## 📖 Conclusion
 -This task emphasizes class design clarity and real-world simulation of banking and shopping systems.
-It is a practical demonstration of Java OOP principles for IEEE projects.
-You can copy-paste this directly into your `README.md` file on GitHub. It’s already formatted with Markdown for clean presentation.
-_
+It is a practical demonstration of Java OOP principles for IEEE projects._
 
